@@ -1,0 +1,3 @@
+Canonical~https://www.gartner.com/reviews/market/embedded-operating-systems/vendor/canonical/product/ubuntu/reviews?marketSeoName=embedded-operating-systems&vendorSeoName=canonical&productSeoName=ubuntu
+SUSE~https://www.gartner.com/reviews/market/server-virtualization/vendor/suse/product/suse-linux-enterprise-server/reviews?marketSeoName=server-virtualization&vendorSeoName=suse&productSeoName=suse-linux-enterprise-server
+RedHat~https://www.gartner.com/reviews/market/server-virtualization/vendor/red_hat/product/enterprise-linux-with-smart-virtualization/reviews?marketSeoName=server-virtualization&vendorSeoName=red_hat&productSeoName=enterprise-linux-with-smart-virtualization
